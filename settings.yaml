@@ -1,0 +1,19 @@
+credentials:
+  client_id: ""
+  client_secret: ""
+  username: ""
+  password: ""
+  user_agent: ""
+
+bot:
+  trigger_phrases:
+    - " India "
+  reply_text: "I am a bot"
+
+subs:
+  target_subs:
+    - "all"
+  blacklist:
+    - "cricket"
+  whitelist:
+    - "pics"
